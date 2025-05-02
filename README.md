@@ -1,6 +1,6 @@
 # IBC Project: Door Sensors Monitoring System (ESP8266 + RemoteXY)
 
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]() <!-- Tukar jika perlu: Completed, Archived -->
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
 
 Sistem pemantauan pintu berasaskan ESP8266 untuk kursus Internet Based Computing (IBC). Projek ini menggunakan sensor gas (analog) dan sensor jarak (ultrasonik) untuk memantau persekitaran pintu. Kawalan dan pemantauan utama dilakukan melalui aplikasi mudah alih menggunakan **RemoteXY** melalui sambungan WiFi Access Point terus ke ESP8266. Sistem ini juga memaparkan status pada LCD I2C 20x4 dan menghantar output ke Serial Monitor untuk penyahpepijatan.
 
@@ -154,4 +154,4 @@ Pastikan semua komponen disambungkan ke pin ESP8266 yang betul seperti yang dita
 
 ## Penyumbang
 
-*   [itswinzie] - ([Your GitHub Username](https://github.com/itswinzie))
+*   [iwanzack] - ([itswinzie](https://github.com/itswinzie))
