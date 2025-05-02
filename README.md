@@ -107,7 +107,7 @@ Pastikan semua komponen disambungkan ke pin ESP8266 yang betul seperti yang dita
 
 1.  **Klon Repositori:**
     ```bash
-    git clone https://github.com/[Your-GitHub-Username]/ibc-project-door-sensors.git
+    git clone https://github.com/itswinzie/ibc-project-door-sensors.git
     cd ibc-project-door-sensors
     ```
 2.  **Sambungan Perkakasan:** Sambungkan semua komponen mengikut [Sambungan Pin](#sambungan-pin).
