@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 #include <RemoteXY.h>
 
-#define REMOTEXY_WIFI_SSID "RemoteXYirwan"
+#define REMOTEXY_WIFI_SSID "ibc project"
 #define REMOTEXY_WIFI_PASSWORD "12345678"
 #define REMOTEXY_SERVER_PORT 6377
 
